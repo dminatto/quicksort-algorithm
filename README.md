@@ -1,7 +1,5 @@
 # Quicksort algorithm
 
-----
-
 Quicksort is an efficient sorting algorithm using the divide-and-conquer method. Developed by Tony Hoare in 1959 it is still a commonly used algorithm for sorting. When implemented well, it can be about two or three times faster than its main competitorst.
 
 ## How it works
